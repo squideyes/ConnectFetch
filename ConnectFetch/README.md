@@ -1,0 +1,1 @@
+The ConnectFetch utility fetches (i.e. downloads) ALL of the "On-Demand"  videos from the Connect 2017 site.  Before running the program update the "SaveTo" path in the Settings.json file.

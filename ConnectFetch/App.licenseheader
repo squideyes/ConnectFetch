@@ -1,0 +1,14 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// Copyright 2017 Louis S. Berman.  All rights reserved.
+
+extensions: .aspx .ascx
+<%-- 
+Copyright 2017 Louis S. Berman.  All rights reserved.
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Copyright 2017 Louis S. Berman.  All rights reserved.
+-->

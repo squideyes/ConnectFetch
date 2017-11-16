@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectFetch", "ConnectFetch\ConnectFetch.csproj", "{D118E130-202E-44CB-A4CC-6EA449B1626B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D118E130-202E-44CB-A4CC-6EA449B1626B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D118E130-202E-44CB-A4CC-6EA449B1626B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D118E130-202E-44CB-A4CC-6EA449B1626B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D118E130-202E-44CB-A4CC-6EA449B1626B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C0A0CEC-FB3C-4820-BAB5-4F9EF05084C1}
+	EndGlobalSection
+EndGlobal
